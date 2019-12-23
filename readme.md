@@ -9,3 +9,4 @@ The purpose of the Arboreal project is to create and evaluate tools for monitori
 * [Democratizing agriculture intelligence: introducing Azure FarmBeats](https://azure.microsoft.com/en-us/blog/democratizing-agriculture-intelligence-introducing-azure-farmbeats/)
 * [FarmBeats Student Kit](https://farmbeatsstudentkit.com/Student)
 * [Soil Moisture Profiles and Temperature Data from SoilSCAPE Sites, USA](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1339)
+* [National Soil Moisture DataSets](http://nationalsoilmoisture.com/test/VWC_QAQC/index.php)
